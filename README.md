@@ -10,7 +10,7 @@ Projeto completo utilizando comunicação e funcionalidades fornecidas pela API 
 Para utilizar a biblioteca através do composer:
 
 ```php
-composer require divulgueregional/api-inter-v2
+composer require giovanne-oliveira/api-inter-v2
 ```
 
 ## Atualizar:
@@ -18,7 +18,7 @@ composer require divulgueregional/api-inter-v2
 <b>Pela última tag: </b>
 
 ```php
-composer update divulgueregional/api-inter-v2 1.0.19
+composer update giovanne-oliveira/api-inter-v2 1.0.19
 ```
 
 ## Documentação:
