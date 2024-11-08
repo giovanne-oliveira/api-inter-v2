@@ -12,6 +12,10 @@
         {
             "name": "Roseno Matos",
             "email": "roseno@divulgueregional.com.br"
+        },
+        {
+            "name": "Giovanne Oliveira",
+            "email": "giovanne@giovanne.dev"
         }
     ],
     "minimum-stability": "dev",
